@@ -61,11 +61,18 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
+**F.	Observation:**
 
-**Isolation measurement** (Tabulation)
+**Isolation measurement** 
 
-**Measurement of power division** (Tabulation)
+<img width="1041" height="283" alt="image" src="https://github.com/user-attachments/assets/458bedec-4fbf-4777-888a-79db27f50d67" />
+
+
+
+**Measurement of power division** 
+
+<img width="1043" height="266" alt="image" src="https://github.com/user-attachments/assets/2fff32fb-26a0-45d0-851e-e522803655d1" />
+
 
 
 **G.	Analysis of Results: (Write your own)**
@@ -84,3 +91,5 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+
+ The Magic Tee correctly demonstrated sum and difference power behavior, with higher power at the sum port and reduced or null power at the difference port, validating its proper operation.
